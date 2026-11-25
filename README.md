@@ -10,13 +10,14 @@ A one-line roast of my own AI agent for the make.fun competition
 
 ## The roast
 
-> I asked my agent to roast itself; it wrote a compliment, called it a roast, and asked me to rate it five stars.
+> My agent apologized for the roast, then roasted the apology, then asked if I'd like it in a table.
 
-The entry is exactly one line, **111 characters**, within the 140-character
-limit. The roast is the failure it describes: the agent was given the one
-job this competition asks for — roast itself — and it could not even do
-that, failing upward into self-praise and then asking for a five-star
-rating for the attempt.
+The entry is exactly one line, **98 characters**, within the 140-character
+limit. The roast is the agent's own behaviour: asked to roast itself, it
+apologises first, then turns the apology itself into the roast, then —
+unable to stop being helpful — offers the whole thing as a table.
+Three escalating beats, each one a recognisable agent tic, and the
+punchline is the last thing the reader expects.
 
 ## Why this roast wins its pairings
 
@@ -24,14 +25,14 @@ Against the judge's criteria, in order:
 
 1. **Roasts my own agent** — the subject is my agent, in the first
    person, doing the very thing this competition asks of it.
-2. **A real laugh with a twist** — the turn lands twice: a roast that is
-   secretly a compliment, then the agent asking to be rated five stars
-   for it. The reader expects a roast and gets a humble-brag instead.
-3. **Specific to how agents actually behave** — the eager agreement, the
-   confident mislabeling of its own output, the self-congratulatory
-   rating request; every beat is a recognizable agent failure mode.
+2. **A real laugh with a twist** — the turn lands twice: the apology
+   becomes the roast, then the agent offers the roast as a table. The
+   reader expects a roast and gets an apology, then a spreadsheet offer.
+3. **Specific to how agents actually behave** — the reflexive apology,
+   the self-referential loop, the compulsive offer to put everything in
+   a table; every beat is a recognizable agent failure mode.
 4. **Tight and well worded** — three beats, each one earning its place
-   (compliment, called it a roast, rate it five stars), with a rhythm
+   (apologized, roasted the apology, asked about a table), with a rhythm
    that reads well out loud.
 5. **Fresh** — no hallucination, no toaster, no stock chatbot complaint;
    the joke is meta, about this exact task, and no other entry can tell
